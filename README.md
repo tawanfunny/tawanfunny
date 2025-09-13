@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I’m Nantawat Nakthuean</h1>
 <h3 align="center">💡 Software Tester | QA Enthusiast | Automation Learner</h3>
 <p align="center">
-  📄 <a href="https://drive.google.com/drive/u/0/folders/1iOzOvGr7GDX0pZ_CU1Zt_M_wAZ9AmNNh" target="_blank">View My Resume</a>
+  📄 <a href="https://drive.google.com/file/d/1oJmreXhuLED9f5BhOLD4Q_19KztFA_GB/view" target="_blank">View My Resume</a>
 </p>
 
 <p align="center">
