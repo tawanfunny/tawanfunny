@@ -38,6 +38,18 @@
 
 </div>
 
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Tech | Highlights | Links |
+|---------|------|------------|-------|
+| **Automated Web Testing** | Robot Framework · Selenium · Python | Built robust regression test suite for e-commerce site (200+ test cases) | [Repo](https://github.com/username/robot-web-tests) |
+| **Database Testing Suite** | MySQL · Oracle · Python | Designed scripts for validating data consistency across multiple DBs | [Repo](https://github.com/username/db-testing) |
+| **Test Reporting Dashboard** | Allure Report · GitHub Actions | Integrated CI/CD pipeline with auto-generated test reports | [Repo](https://github.com/username/allure-dashboard) |
+| **Manual Test Cases Collection** | Excel · Test Scenarios | Curated 50+ test cases for real-world applications (Login, Payment, API) | [Docs](https://github.com/username/manual-test-cases) |
+
+</div>
 
 ## 🛠 Skills
 - **Test Management**: JIRA, TestRail  
