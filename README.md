@@ -1,17 +1,25 @@
 <p align="center">
-  <img src=https://avatars.githubusercontent.com/u/192176958?v=4 width="300" height="300" style="border-radius: 50%;" />
+  <img src=https://avatars.githubusercontent.com/u/192176958?v=4 width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi 👋 I am Nantawat Nakthuean</h1>
+<h1 align="center">Hi 👋 I’m Nantawat Nakthuean</h1>
 <h3 align="center">💡 Software Tester | QA Enthusiast | Automation Learner</h3>
+
+<p align="center">
+  <em><strong>“A good tester doesn’t just find bugs — they prevent them.”</strong></em>  
+</p>
+<p align="center">
+  <sub>⚡ Bug today, quality tomorrow. ⚡</sub>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎯 I am passionate about ensuring software quality  
-- 🧪 Experience in **manual testing** (functional, regression, UI/UX)  
-- 🤖 Learning **automation testing** with Selenium & Robot Framework  
-- 🌱 Currently exploring **API Testing** (Postman, RestAssured)  
+## 🚀 About Me
+🌱 I’m currently learning **Automation Testing** (Selenium, Robot Framework)  
+🛠 Daily driver stack: **Manual Testing, Postman, JIRA, Git**  
+🎯 2025 Goal: **Build a solid QA portfolio with both manual & automation projects**  
+📫 Reach me: **captaintawan25@gmail.com** | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
+
 
 ---
 
