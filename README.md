@@ -21,7 +21,7 @@
 🌱 I’m currently learning **Automation Testing** (Selenium, Robot Framework)  
 🛠 Daily driver stack: Python, Selenium, Robot Framework, Microsoft Excel, GitHub, Allure Report  
 🎯 2025 Goal: **Build a solid QA portfolio with both manual & automation projects**  
-📫 Reach me: **captaintawan25@gmail.com** | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/tawanfunny)  
+📫 Reach me: **captaintawan25@gmail.com** | [GitHub](https://github.com/tawanfunny)  
 
 ---
 ## 🧰 Tech Stack & Tools
@@ -44,41 +44,39 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|------------|-------|
-| **Automated Web Testing** | Robot Framework · Selenium · Python | Built robust regression test suite for e-commerce site (200+ test cases) | [Repo](https://github.com/username/robot-web-tests) |
-| **Database Testing Suite** | MySQL · Oracle · Python | Designed scripts for validating data consistency across multiple DBs | [Repo](https://github.com/username/db-testing) |
+| **Academic Service Website Testing** | Robot Framework · Selenium · Python | Designed and executed automated & manual test cases for the Academic Service project website of the IT Department. Covered login, registration, and request submission flows. | [Repo](https://github.com/tawanfunny/Myproject-Robot-Framework) |
+| **Manual Test Cases Collection** | Excel · Test Scenarios · Documentation | Designed and executed **900+ manual test cases** across multiple modules. Created supporting documents, including **Test Plan, Test Design, and System Test Cases** in DOC format. | [Drive](https://drive.google.com/drive/u/0/folders/1N_CA-MGit9XFOoi1osNNMoerGLxE8gdi) |
 | **Test Reporting Dashboard** | Allure Report · GitHub Actions | Integrated CI/CD pipeline with auto-generated test reports | [Repo](https://github.com/username/allure-dashboard) |
-| **Manual Test Cases Collection** | Excel · Test Scenarios | Curated 50+ test cases for real-world applications (Login, Payment, API) | [Docs](https://github.com/username/manual-test-cases) |
+| **Star Type Prediction** | Python · Google Colab · Scikit-learn | Built ML model for **stellar classification** using **K-Nearest Neighbors (KNN)**. Best performance with **n_neighbors=3**, reaching **97.42% accuracy** (avoiding overfitting from k=1 at 95%). | [Colab](https://github.com/username/star-prediction) 
 
 </div>
 
-## 🛠 Skills
-- **Test Management**: JIRA, TestRail  
-- **Automation Tools**: Selenium, Robot Framework, Cypress (basic)  
-- **API Testing**: Postman, Swagger, RestAssured  
-- **Languages**: Java, Python (basic scripting)  
-- **CI/CD Tools**: Jenkins, GitHub Actions  
+---
+
+## 📜 Experience & Contributions
+- **Manual Testing**: Designed and executed 900+ test cases for Academic Service Website  
+- **Automation Testing**: Robot Framework & Selenium scripts for regression testing  
+- **Database Testing**: Validated MySQL & Oracle databases  
+- **Reporting**: Integrated Allure Report dashboards with GitHub Actions / CI pipeline  
 
 ---
 
-## 📂 Portfolio Projects
-| Project | Description | Tools |
-|---------|-------------|-------|
-| 🐞 [Login Page Testing](./projects/login-test-cases.md) | Test cases for login functionality | Manual Testing |
-| 🤖 [Selenium Automation Demo](./projects/selenium-automation/) | Automated UI tests for sample site | Selenium + Java |
-| 📡 [API Testing Collection](./projects/api-testing/) | Postman collection for REST APIs | Postman |
+## 📂 Test Documentation Samples
+- **Test Plan**: System Test Plan – Academic Service Project  
+- **Test Design**: Test Scenarios & Test Case (~900 cases)  
+- **Bug Reports**: Sample defect reports  
+- **Traceability Matrix**: Requirement → Test Case mapping  
+
+*(Documents available in [GitHub Repo](https://github.com/username/manual-test-cases))*
 
 ---
 
-## 📑 Sample Test Artifacts
-- [Test Plan Example](./documents/test-plan.md)  
-- [Bug Report Samples](./documents/bug-reports.md)  
-- [Test Case Template](./templates/test-case-template.md)  
+## 🏅 Certifications & Achievements
+- Completed 900+ test cases for Academic Service Project  
+- Designed Test Plan, Test Design, System Test Case docs  
+- Currently learning Playwright & API Testing  
 
 ---
 
-## 📬 Contact
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Email: your.email@example.com  
 
----
+
