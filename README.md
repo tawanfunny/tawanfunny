@@ -77,6 +77,12 @@
 - Currently learning Playwright & API Testing  
 
 ---
-
+## 📬 Contact
+- GitHub: [github.com/tawanfunny](https://github.com/tawanfunny)  
+- Email: captaintawan25@gmail.com  
+- Phone: +66 1234 56789  
+- Instagram: [tawanfunny](https://www.instagram.com/tawanfunny/)  
+- Facebook: [nantawat.nakthuen](https://www.facebook.com/nantawat.nakthuen/)
+---
 
 
