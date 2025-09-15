@@ -74,15 +74,36 @@
 ## 🏅 Certifications & Achievements
 - Completed 900+ test cases for Academic Service Project  
 - Designed Test Plan, Test Design, System Test Case docs  
-- Currently learning Playwright & API Testing  
+- Currently learning Playwright & API Testing
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tawanfunny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawanfunny&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ---
 ## 📬 Contact
-- GitHub: [github.com/tawanfunny](https://github.com/tawanfunny)  
-- Email: captaintawan25@gmail.com  
-- Phone: +66 1234 56789  
-- Instagram: [tawanfunny](https://www.instagram.com/tawanfunny/)  
-- Facebook: [nantawat.nakthuen](https://www.facebook.com/nantawat.nakthuen/)
+[![Email](https://img.shields.io/badge/Email-captaintawan25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captaintawan25@gmail.com)    
+[![Phone](https://img.shields.io/badge/Phone-%2B66%201234%2056789-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+66123456789)  
+[![GitHub](https://img.shields.io/badge/GitHub-tawanfunny-181717?style=for-the-badge&logo=github)](https://github.com/tawanfunny)    
+
+## 🌐 Social Links
+[![Instagram](https://img.shields.io/badge/Instagram-%40tawanfunny-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tawanfunny/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Nantawat%20Nakthuen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nantawat.nakthuen/)  
+
 ---
+
 
 
