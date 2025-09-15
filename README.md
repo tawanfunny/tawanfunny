@@ -1,12 +1,13 @@
 <p align="center">
-  <img src=https://avatars.githubusercontent.com/u/192176958?v=4 width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/192176958?v=4" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi 👋 I’m Nantawat Nakthuean</h1>
+<h1 align="center">🌸 こんにちは! I’m Nantawat Nakthuean</h1>
 <h3 align="center">💡 Software Tester | QA Enthusiast | Automation Learner</h3>
+
 <p align="center">
   <a href="https://drive.google.com/drive/u/0/folders/12N_JmzVu-c2NmlwWiJvsdXtFeCjJmL0b" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/View%20My%20Resume-FFB7C5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -14,7 +15,7 @@
   <em><strong>“A good tester doesn’t just find bugs — they prevent them.”</strong></em>  
 </p>
 <p align="center">
-  <sub>⚡ Bug today, quality tomorrow. ⚡</sub>
+  <sub>🌸 Bug today, quality tomorrow. 🌸</sub>
 </p>
 
 ---
@@ -42,7 +43,7 @@
 
 
 ---
-## 📌 Featured Projects
+## 🎌 Featured Projects
 
 <div align="center">
 
@@ -75,13 +76,16 @@
 
 ---
 ## 📬 Contact
-[![Email](https://img.shields.io/badge/Email-captaintawan25%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captaintawan25@gmail.com)    
-[![Phone](https://img.shields.io/badge/Phone-%2B66%201234%2056789-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+66123456789)  
-[![GitHub](https://img.shields.io/badge/GitHub-tawanfunny-181717?style=for-the-badge&logo=github)](https://github.com/tawanfunny)    
+[![Email](https://img.shields.io/badge/Email-captaintawan25%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captaintawan25@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-%2B66%201234%2056789-9370DB?style=for-the-badge&logo=phone&logoColor=white)](tel:+66123456789)  
+[![GitHub](https://img.shields.io/badge/GitHub-tawanfunny-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawanfunny)  
 
-## 🌐 Social Links
-[![Instagram](https://img.shields.io/badge/Instagram-%40tawanfunny-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tawanfunny/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Nantawat%20Nakthuen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nantawat.nakthuen/)  
+## 🌸 Social Links
+[![Instagram](https://img.shields.io/badge/Instagram-%40tawanfunny-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tawanfunny/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Nantawat%20Nakthuen-4169E1?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nantawat.nakthuen/)  
+
+---
+ 
 
 ---
 
