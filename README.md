@@ -5,7 +5,9 @@
 <h1 align="center">Hi 👋 I’m Nantawat Nakthuean</h1>
 <h3 align="center">💡 Software Tester | QA Enthusiast | Automation Learner</h3>
 <p align="center">
-  📄 <a href="https://drive.google.com/drive/u/0/folders/12N_JmzVu-c2NmlwWiJvsdXtFeCjJmL0b" target="_blank">View My Resume</a>
+  <a href="https://drive.google.com/drive/u/0/folders/12N_JmzVu-c2NmlwWiJvsdXtFeCjJmL0b" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 <p align="center">
@@ -38,43 +40,21 @@
 
 </div>
 
+
+---
 ## 📌 Featured Projects
 
 <div align="center">
 
-| Project | Tech | Highlights | Links |
-|---------|------|------------|-------|
-| **Academic Service Website Testing** | Robot Framework · Selenium · Python | Designed and executed automated & manual test cases for the Academic Service project website of the IT Department. Covered login, registration, and request submission flows. | [Repo](https://github.com/tawanfunny/Myproject-Robot-Framework) |
-| **Manual Test Cases Collection** | Excel · Test Scenarios · Documentation | Designed and executed **900+ manual test cases** across multiple modules. Created supporting documents, including **Test Plan, Test Design, and System Test Cases** in DOC format. | [Drive](https://drive.google.com/drive/u/0/folders/1N_CA-MGit9XFOoi1osNNMoerGLxE8gdi) |
-| **Test Reporting Dashboard** | Allure Report · GitHub Actions | Integrated CI/CD pipeline with auto-generated test reports | [Repo](https://github.com/username/allure-dashboard) |
-| **Star Type Prediction** | Python · Google Colab · Scikit-learn | Built ML model for **stellar classification** using **K-Nearest Neighbors (KNN)**. Best performance with **n_neighbors=3**, reaching **97.42% accuracy** (avoiding overfitting from k=1 at 95%). | [Colab](https://github.com/username/star-prediction) 
+| 🚀 Project | 🛠️ Tech Stack | 🌟 Highlights | 🔗 Links |
+|------------|--------------|---------------|----------|
+| **Academic Service Website Testing** | ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=flat&logo=robotframework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Designed and executed **automated & manual test cases** for the Academic Service project website. Covered **login, registration, and request submission** flows. | [📂 Repo](https://github.com/tawanfunny/Myproject-Robot-Framework) |
+| **Manual Test Cases Collection** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Docs](https://img.shields.io/badge/Docs-4285F4?style=flat&logo=google&logoColor=white) | Designed and executed **900+ manual test cases** across modules. Created **Test Plan, Test Design, and System Test Cases** in DOC format. | [📑 Drive](https://drive.google.com/drive/u/0/folders/1N_CA-MGit9XFOoi1osNNMoerGLxE8gdi) |
+| **Test Reporting Dashboard** | ![Allure](https://img.shields.io/badge/Allure%20Report-FF4F8B?style=flat&logo=allure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | Visualized automated test results with Allure Report for clear QA insights. | [📂 Allure Report Demo](https://github.com/tawanfunny/allure-report-demo) |
+| **Star Type Prediction** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) | Built **ML model** for stellar classification using **KNN**. Best result with **n=3 (97.42% accuracy)** vs **n=1 (95%)**. | [📂 Colab](https://github.com/username/star-prediction) |
 
 </div>
 
----
-
-## 📜 Experience & Contributions
-- **Manual Testing**: Designed and executed 900+ test cases for Academic Service Website  
-- **Automation Testing**: Robot Framework & Selenium scripts for regression testing  
-- **Database Testing**: Validated MySQL & Oracle databases  
-- **Reporting**: Integrated Allure Report dashboards with GitHub Actions / CI pipeline  
-
----
-
-## 📂 Test Documentation Samples
-- **Test Plan**: System Test Plan – Academic Service Project  
-- **Test Design**: Test Scenarios & Test Case (~900 cases)  
-- **Bug Reports**: Sample defect reports  
-- **Traceability Matrix**: Requirement → Test Case mapping  
-
-*(Documents available in [GitHub Repo](https://github.com/username/manual-test-cases))*
-
----
-
-## 🏅 Certifications & Achievements
-- Completed 900+ test cases for Academic Service Project  
-- Designed Test Plan, Test Design, System Test Case docs  
-- Currently learning Playwright & API Testing
 
 
 ## 📊 GitHub Stats
