@@ -56,15 +56,14 @@
 </div>
 
 
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=sakura" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tawanfunny&theme=sakura&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tawanfunny&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 💻 Top Languages
