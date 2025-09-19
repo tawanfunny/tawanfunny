@@ -15,8 +15,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=header&text=Welcome%20to%20My%20World!%20🌸🐱&fontSize=25&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
-
 <p align="center">
   <a href="https://drive.google.com/drive/u/0/folders/12N_JmzVu-c2NmlwWiJvsdXtFeCjJmL0b" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-FFC0CB?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
