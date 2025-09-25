@@ -79,13 +79,28 @@
 
 ## 📊 GitHub Stats & Fun 🌸
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <br/>
+</p>
+
+---
+
+<p align="center">
   <br/>
   <img src="https://streak-stats.vercel.app?user=tawanfunny&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawanfunny&layout=compact&theme=tokyonight&langs_count=5" />
 </p>
 
+---
+
+<p align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawanfunny&layout=compact&theme=tokyonight&langs_count=5" />
+  <br/>
+</p>
+
+---
 
 
 <p align="center"> <img src="https://media1.tenor.com/m/OgUviXF2cP0AAAAd/memecoin-cat.gif" width="200" alt="Torii Gate GIF"/> 
@@ -93,7 +108,7 @@
 
 </p>
 
-
+---
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-captaintawan25%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captaintawan25@gmail.com)  
