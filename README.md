@@ -80,7 +80,7 @@
 ## 📊 GitHub Stats & Fun 🌸
 <p align="center">
   <br/>
- <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=dracula" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=tawanfunny&show_icons=true&theme=dracula&cache_seconds=1800" />
   <br/>
 </p>
 
@@ -112,7 +112,7 @@
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-captaintawan25%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:captaintawan25@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B66%201234%2056789-9370DB?style=for-the-badge&logo=phone&logoColor=white)](tel:+66123456789)  
+[![Phone](https://img.shields.io/badge/Phone-%2B66%201234%2056789-9370DB?style=for-the-badge&logo=phone&logoColor=white)](tel:+0642363220)  
 [![GitHub](https://img.shields.io/badge/GitHub-tawanfunny-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawanfunny)  
 
 ## 🌸 Social Links
